@@ -1,0 +1,10 @@
+Epoch 1/2
+------------------------------
+Train Loss: 0.6792  Acc: 0.7044
+Val Loss: 0.6463  Acc: 0.6515
+Epoch 2/2
+------------------------------
+Train Loss: 0.6484  Acc: 0.7174
+Val Loss: 0.6154  Acc: 0.6619
+Training complete in 5m 45
+Best validation accuracy: 0.6619

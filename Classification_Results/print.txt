@@ -1,0 +1,16 @@
+Epoch 1/2
+------------------------------
+Train Loss: 6.8194  Acc: 0.3263
+Val Loss: 7.8541  Acc: 0.3333
+Epoch 2/2
+------------------------------
+Train Loss: 5.2592  Acc: 0.3035
+Val Loss: 6.0218  Acc: 0.3212
+Training complete in 2m 12
+Best validation accuracy: 0.3333
+
+
+PyTorch Version: 1.7.1+cu101
+Torchvision Version: 0.8.2+cu101
+ResNet_101 with texture features
+Epochs: 2, Batch Size: 8, LR: 0.00001000, Adam
